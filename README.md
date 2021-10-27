@@ -24,7 +24,7 @@ For Windows:
 ```python env\Scripts\activate```
 
 For Mac OS,Linux:
-```python source venv/bin/activate```
+```python source env/bin/activate```
 
 * ### Flask
 ```python $ pip install flask```
