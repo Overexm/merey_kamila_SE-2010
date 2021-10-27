@@ -45,7 +45,6 @@ For Mac OS,Linux:
 ```python
 from flask import Flask, render_template
 from flask import request
-from flask.json import jsonify
 import jwt
 from flask_sqlalchemy import SQLAlchemy
 import psycopg2
