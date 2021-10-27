@@ -30,12 +30,10 @@ For Mac OS,Linux:
 ```python $ pip install flask```
 
 * ### SQLAlchemy
-```python
-$ pip install SQLAlchemy ```
+```python $ pip install SQLAlchemy ```
 
 * ### pyjwt
-```python
-$ pip install pyjwt ```
+```python $ pip install pyjwt ```
 * ### PostgreSQL Database [Download](https://www.enterprisedb.com/downloads/postgres-postgresql-downloads)
 
 
